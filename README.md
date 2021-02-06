@@ -7,6 +7,9 @@ It works as a lamp printed in a Bitcoin symbol. The project includes a rgb led s
 ![alt text](https://user-images.githubusercontent.com/78655460/107124539-d3118c80-68a4-11eb-8ca6-3c025bbbba9a.png)
 
 
+![alt text](https://user-images.githubusercontent.com/78655460/107124676-972af700-68a5-11eb-9eac-8737c0e05b0e.jpg)
+
+
 
 More info on https://jardinfinanciero.com/2021/01/29/bitcoin-ticker-diy/
 
