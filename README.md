@@ -15,6 +15,8 @@ It works as a lamp printed in a Bitcoin symbol. The project includes a rgb led s
 
 
 
-More info on https://jardinfinanciero.com/2021/01/29/bitcoin-ticker-diy/
+More info on:
+
+https://jardinfinanciero.com/2021/01/29/bitcoin-ticker-diy/
 
 https://youtu.be/c_ObimjXboY
